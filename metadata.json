@@ -1,0 +1,7 @@
+{
+  "name": "RightWay Travel App",
+  "description": "A modern, mobile-first travel booking application for hotels, buses, trains, flights, and metro. Features a bilingual interface (English/Tamil) and a clean, user-friendly design for a seamless booking experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
